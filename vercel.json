@@ -1,0 +1,4 @@
+{
+  "rootDirectory": "Logtracker",
+  "rewrites": [{ "source": "/(.*)", "destination": "/index.html" }]
+}
